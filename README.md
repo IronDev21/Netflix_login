@@ -1,2 +1,3 @@
 # netflix_login-main
- Clone da tela de login do Netflix
+
+Neste repositório criei um clone da tela de login do Netflix.
